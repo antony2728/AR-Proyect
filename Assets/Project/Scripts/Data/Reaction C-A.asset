@@ -16,4 +16,4 @@ MonoBehaviour:
   bA: {fileID: 11400000, guid: e998b2bf64a40ba48b97da2634181e5f, type: 2}
   bB: {fileID: 11400000, guid: c7f6be7c3174b474a8e1998f40db3826, type: 2}
   distance: 0.15
-  clip: {fileID: 8300000, guid: 70d92f922a6312a4f8a12da3f24d70ef, type: 3}
+  clip: {fileID: 8300000, guid: 4dbbdbc41092c1c4bb9ec10ed6751590, type: 3}

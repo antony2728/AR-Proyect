@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9a23c5bcd63ec4ca2bd349f5a3d6fa, type: 3}
   m_Name: Beast3
   m_EditorClassIdentifier: 
-  bestName: Beast3
-  description: esta es bestia 3
+  bestName: Kitsune
+  description: "Zorro espiritual astuto y juguet\xF3n, conocido por su ingenio y
+    su conexi\xF3n con la naturaleza"
   level: 3
-  icon: {fileID: 21300000, guid: d80cabb7f46004842b09173491e74cc6, type: 3}
+  icon: {fileID: 185496554, guid: a32bcf6f725f3b245948955f2c03363d, type: 3}
   prefab: {fileID: 7657548977611231357, guid: 3cbfcd4079a5031478389d5ab3c8c311, type: 3}

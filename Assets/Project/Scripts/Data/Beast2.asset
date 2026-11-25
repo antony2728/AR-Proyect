@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9a23c5bcd63ec4ca2bd349f5a3d6fa, type: 3}
   m_Name: Beast2
   m_EditorClassIdentifier: 
-  bestName: Beast2
-  description: esta es bestia 2
+  bestName: Sunekosuri
+  description: "Criatura nocturna misteriosa y peque\xF1a, suele parecerse a un gato
+    o perro oscuro"
   level: 2
-  icon: {fileID: 21300000, guid: 1c72e2211b1ba47d7baf8d6ee5a5daf5, type: 3}
+  icon: {fileID: -2049321294, guid: 3af8512954625734e990172fb6649946, type: 3}
   prefab: {fileID: 3745605318107395163, guid: daca7e1cd0a975941a64a8a9cbd8e5e5, type: 3}

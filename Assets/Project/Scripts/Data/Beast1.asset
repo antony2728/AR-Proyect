@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9a23c5bcd63ec4ca2bd349f5a3d6fa, type: 3}
   m_Name: Beast1
   m_EditorClassIdentifier: 
-  bestName: Beast1
-  description: esta es bestia 1
+  bestName: Oni
+  description: "Demonio o esp\xEDritu poderoso del folclore, a menudo asociado con
+    la fuerza bruta, el caos"
   level: 1
-  icon: {fileID: 21300000, guid: df7e78ca980944172aec00b77115a8c5, type: 3}
+  icon: {fileID: -1700292168, guid: ccffec9c7515f9d4782dfd4a72a0af4b, type: 3}
   prefab: {fileID: 7279467769842343898, guid: b1b37ac0eaa6a9a4785fc1f26065e8b3, type: 3}

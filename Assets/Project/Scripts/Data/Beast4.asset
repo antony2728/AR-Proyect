@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9a23c5bcd63ec4ca2bd349f5a3d6fa, type: 3}
   m_Name: Beast4
   m_EditorClassIdentifier: 
-  bestName: Beast4
-  description: esta es bestia 4
+  bestName: Kappa
+  description: "Esp\xEDritu acu\xE1tico travieso de r\xEDos y estanques que lleva
+    un plato con agua en la cabeza"
   level: 4
-  icon: {fileID: 21300000, guid: 930e939e9def94ef69711892eaa9af81, type: 3}
+  icon: {fileID: -1160828464, guid: 1e96e95216178464faab6812c3a28c04, type: 3}
   prefab: {fileID: 8986328500875594450, guid: d825bbdf58c379d4290da92e387f71d0, type: 3}

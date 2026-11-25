@@ -18,41 +18,41 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4653113924333862217
-      m_GuidHigh: 13389232578488698778
+      m_GuidLow: 5412588345100340508
+      m_GuidHigh: 16213068599819365294
     m_SerializedTextureGuid:
-      m_GuidLow: 1581916512559493328
-      m_GuidHigh: 3210277075400809000
+      m_GuidLow: 14466822741734013965
+      m_GuidHigh: 10651941335309292920
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Beast1
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5662704575468286927
-      m_GuidHigh: 2363722480660671641
+      m_GuidLow: 5383414719684239322
+      m_GuidHigh: 17211953242873300104
     m_SerializedTextureGuid:
-      m_GuidLow: 1410765671036274939
-      m_GuidHigh: 2258299799468753547
+      m_GuidLow: 2081880480672220902
+      m_GuidHigh: 6392088349545477082
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Beast2
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4894250951351754683
-      m_GuidHigh: 4464953466437544863
+      m_GuidLow: 4902574851585317708
+      m_GuidHigh: 18038967015981863571
     m_SerializedTextureGuid:
-      m_GuidLow: 15993680862964921776
-      m_GuidHigh: 4834972181591199035
+      m_GuidLow: 1410810930800151315
+      m_GuidHigh: 10349482404294310104
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Beast3
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4660558367875612190
-      m_GuidHigh: 851242577272568503
+      m_GuidLow: 5628430556729186389
+      m_GuidHigh: 12372013364494540696
     m_SerializedTextureGuid:
-      m_GuidLow: 5423697415650308013
-      m_GuidHigh: 4630810967385126107
+      m_GuidLow: 2703442301686952251
+      m_GuidHigh: 18403957240594565145
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Beast4
